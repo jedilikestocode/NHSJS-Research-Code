@@ -1,0 +1,11 @@
+Status: worst
+Dataset Index: 177
+CC Score: 0.679166
+Category: Affective
+Filename: 123.jpg
+
+Stimulus Image:
+/content/drive/MyDrive/CAT2000/trainSet/Stimuli/Affective/123.jpg
+
+Fixation Map:
+/content/drive/MyDrive/CAT2000/trainSet/FixationMaps/Affective/123.jpg

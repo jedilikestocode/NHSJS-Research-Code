@@ -1,0 +1,11 @@
+Status: best
+Dataset Index: 814
+CC Score: 0.991932
+Category: LowResolution
+Filename: 151.jpg
+
+Stimulus Image:
+/content/drive/MyDrive/CAT2000/trainSet/Stimuli/LowResolution/151.jpg
+
+Fixation Map:
+/content/drive/MyDrive/CAT2000/trainSet/FixationMaps/LowResolution/151.jpg

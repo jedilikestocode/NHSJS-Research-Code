@@ -1,0 +1,11 @@
+Status: worst
+Dataset Index: 976
+CC Score: 0.736544
+Category: Object
+Filename: 047.jpg
+
+Stimulus Image:
+/content/drive/MyDrive/CAT2000/trainSet/Stimuli/Object/047.jpg
+
+Fixation Map:
+/content/drive/MyDrive/CAT2000/trainSet/FixationMaps/Object/047.jpg

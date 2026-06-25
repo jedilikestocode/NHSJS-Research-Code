@@ -1,0 +1,11 @@
+Status: worst
+Dataset Index: 1117
+CC Score: 0.716442
+Category: Social
+Filename: 131.jpg
+
+Stimulus Image:
+/content/drive/MyDrive/CAT2000/trainSet/Stimuli/Social/131.jpg
+
+Fixation Map:
+/content/drive/MyDrive/CAT2000/trainSet/FixationMaps/Social/131.jpg
